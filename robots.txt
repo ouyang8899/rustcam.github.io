@@ -1,0 +1,7 @@
+# START nuxt-robots (indexable)
+User-agent: *
+Allow: /
+Allow: /en
+
+Sitemap: https://www.rustcam.com/sitemap_index.xml
+# END nuxt-robots
